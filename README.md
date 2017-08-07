@@ -10,6 +10,13 @@ Testing/validation data confusion matrix . Accuracy 91.3%
 Visualizing the image at different stages of the inception model
 
 
+
+![image](https://user-images.githubusercontent.com/26388650/29048345-ef303bca-7b84-11e7-8f63-d95340555f9f.png)
+
+
+
+
+
 Stage A
 
 
