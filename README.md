@@ -43,5 +43,25 @@ Bottleneck feature
 ![bottleneck_feature_shark](https://user-images.githubusercontent.com/26388650/29048002-4e16a14e-7b83-11e7-8021-6ef9d94aa7c5.png)
 
 
+features and labels 
+
+
+![screenshot 86](https://user-images.githubusercontent.com/26388650/29048120-f741442c-7b83-11e7-8402-a36c19f53f53.png)
+
+
+
+Ouput on command line: 
+
+
+
+![screenshot 87](https://user-images.githubusercontent.com/26388650/29048137-0c6db448-7b84-11e7-8e42-faddc0b29416.png)
+
+
+
+
+Few Predictions:
+
+![screenshot 88](https://user-images.githubusercontent.com/26388650/29048158-21e2ee06-7b84-11e7-8ead-01c053385127.png)
+
 
 
