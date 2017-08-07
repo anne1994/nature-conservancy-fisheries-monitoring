@@ -7,11 +7,7 @@ training set confusion matrix. Accuracy 100%
 Testing/validation data confusion matrix 
 ![confusionmatrix_svm_natureconservancy_validationdata](https://user-images.githubusercontent.com/26388650/29047831-872e5f68-7b82-11e7-921a-b8c31ae04386.png)
 
-Visualizing the image at different layers of the inception model
-original image
-
-
-![img_01881](https://user-images.githubusercontent.com/26388650/29048062-9eff09ca-7b83-11e7-942c-e85a0ec1c2f1.jpg)
+Visualizing the image at different stages of the inception model
 
 
 Stage A
